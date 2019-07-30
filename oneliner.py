@@ -1,3 +1,1 @@
-import os
-
-print("wow")
+pyinstaller --onefile xx.py -icon=xx.ico
